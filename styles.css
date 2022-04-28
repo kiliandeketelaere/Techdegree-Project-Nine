@@ -278,6 +278,7 @@ flex-wrap: wrap;
 .check-icon {
     width: 15px;
     height: 15px;
+    margin-top: 5px;
 }
 
 .icon-large {
