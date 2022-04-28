@@ -176,9 +176,7 @@ flex-wrap: wrap;
     display: none;
     border-radius: 10%;
     margin-left: 200px;
-    width: 30%;
-    position: absolute;
-    margin-top: -100px;
+    width: 60%;
 }
 
 .grid3-box4 {
@@ -289,8 +287,10 @@ flex-wrap: wrap;
 .portfolio-images2 {
     display: none;
     border-radius: 10%;
-    width: 40%;
-    position: absolute;
+    width: 80%;
+    /* height: 60%; */
+    margin-left: 30%;
+    margin-top: 100px;
 }
 
 
