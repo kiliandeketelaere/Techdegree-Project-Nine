@@ -365,6 +365,9 @@ flex-wrap: wrap;
     width: 20px;
     height: 20px;
 }
+.portfolio-images3 {
+    display: none;
+}
 
 /* ========== SIXTH SLIDER ========== */
 
@@ -659,6 +662,12 @@ h5 {
     }
     .portfolio-images2 {
         display: block;
+    }
+    .portfolio-images3 {
+        display: block;
+        position: relative;
+        width: 70%;
+        margin-left: 20%;
     }
 
     .item-box {
