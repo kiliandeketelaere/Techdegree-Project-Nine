@@ -515,7 +515,6 @@ h5 {
 
 .button1:hover {
     background: linear-gradient(90deg, rgb(255, 246, 122) 0%, rgb(249, 250, 220) 50%);
-    box-shadow: 0px 15px 20px linear-gradient(90deg, rgb(255, 246, 122) 0%, rgb(249, 250, 220) 100%);
     transform: scale(1.1);
     transition: 0.3s ease;
     }
